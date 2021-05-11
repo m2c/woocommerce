@@ -10,5 +10,10 @@
 
 You *must* enable SSL from the settings panel to use this plugin in live mode - this is for your customers safety and security.
 
+change logs : 
+
+12/5/2021
+Added new kiplepay image smaller size
+
 
 
