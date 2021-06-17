@@ -3,7 +3,7 @@
  * Kiple WooCommerce Shopping Cart Plugin
  *
  * + Kiple Suppport Team <customercare@kiplepay.com>
- * + version 4.5.0
+ * + version 4.5.1
  * + Please change callback url to your domain in line no 20 below : http://shoppingcartdomainurl/?wc-api=WC_webcash_Gateway
  */
 
@@ -14,7 +14,7 @@
  * Description: WooCommerce Kiple is a Kiple payment gateway for WooCommerce v3.6.x, v3.7.x, v3.8.x, v3.9.x, v4.0.x
  * Author: Kiple Tech Team
  * Author URI: https://kiplepay.com/
- * Version: 4.5.0
+ * Version: 4.5.1
  * License: MIT
  * Text Domain: wcwebcash
  * Domain Path: /languages/
