@@ -401,6 +401,12 @@ function wcwebcash_gateway_load() {
             $order = new WC_Order( $orderid );
 
             if (!in_array($order->status, ['failed', 'pending'])) {
+                
+                if($order->status == "processing"){
+                    wp_redirect($order->get_checkout_order_received_url());
+                } else {
+                    wp_redirect($order->get_view_order_url());
+                }
                 exit;
             }
 
