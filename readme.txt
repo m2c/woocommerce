@@ -15,5 +15,8 @@ change logs :
 12/5/2021
 Added new kiplepay image smaller size
 
+17/6/2021
+updated version number display in admin portal
+
 
 
