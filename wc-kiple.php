@@ -228,6 +228,7 @@ function wcwebcash_gateway_load() {
                 'ord_customfield4' => "plg_woocommerce",
                 'ord_returnURL' => add_query_arg( 'wc-api', 'WC_webcash_Gateway', home_url( '/' ) ),
                 'dynamic_callback_url' => add_query_arg( 'wc-api', 'WC_webcash_Gateway', home_url( '/' ) ),
+                'version' => '2.0',
                 'merchant_hashvalue' => sha1($this->verify_key . $this->merchant_id . $mercref . str_replace(".","",str_replace(",","",$total)))
             );
 

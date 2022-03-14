@@ -18,5 +18,6 @@ Added new kiplepay image smaller size
 17/6/2021
 updated version number display in admin portal
 
-
+14/03/2022
+Updated to kiple payment version 2.0
 
