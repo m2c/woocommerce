@@ -1,0 +1,26 @@
+== Installation ==
+
+ * Unzip the files and upload the folder into your plugins folder (wp-content/plugins/)
+ * Activate the plugin in your WordPress admin area.
+ * Open the settings page for WooCommerce and click the gateways tab
+ * Configure the merchant settings which is provided from Kiple  
+ * WooCommerce Kiple is a Kiple payment gateway for WooCommerce v3.6.x, v3.7.x, v3.8.x, v3.9.x, v4.0.x
+ 
+== Important Note ==
+
+You *must* enable SSL from the settings panel to use this plugin in live mode - this is for your customers safety and security.
+
+change logs : 
+
+12/5/2021
+Added new kiplepay image smaller size
+
+17/6/2021
+updated version number display in admin portal
+
+14/03/2022
+Updated to kiple payment version 2.0
+
+16/05/2023
+Updated transaction id to the header 
+
